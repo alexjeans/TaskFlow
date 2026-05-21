@@ -1,4 +1,4 @@
-package com.example.evaluacionsegundocorte.ui.screen
+package com.example.evaluacionsegundocorte.ui.screen.taskdetail
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -11,7 +11,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import com.example.evaluacionsegundocorte.ui.model.Task
+import com.example.evaluacionsegundocorte.data.model.Task
 import com.example.evaluacionsegundocorte.ui.viewmodel.TaskViewModel
 
 @Composable

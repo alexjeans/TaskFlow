@@ -1,4 +1,4 @@
-package com.example.evaluacionsegundocorte.ui.screen
+package com.example.evaluacionsegundocorte.ui.screen.splash
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween

@@ -1,4 +1,4 @@
-package com.example.evaluacionsegundocorte.ui.model
+package com.example.evaluacionsegundocorte.data.model
 
 data class Task(
     val id: Int,

@@ -1,6 +1,6 @@
-package com.example.evaluacionsegundocorte.ui.repository
+package com.example.evaluacionsegundocorte.data.repository
 
-import com.example.evaluacionsegundocorte.ui.model.Task
+import com.example.evaluacionsegundocorte.data.model.Task
 
 class TaskRepository {
     private val tasks = mutableListOf(

@@ -1,8 +1,8 @@
 package com.example.evaluacionsegundocorte.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.example.evaluacionsegundocorte.ui.model.Task
-import com.example.evaluacionsegundocorte.ui.repository.TaskRepository
+import com.example.evaluacionsegundocorte.data.model.Task
+import com.example.evaluacionsegundocorte.data.repository.TaskRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

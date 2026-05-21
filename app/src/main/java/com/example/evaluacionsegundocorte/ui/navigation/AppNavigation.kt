@@ -7,9 +7,9 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
-import com.example.evaluacionsegundocorte.ui.screen.SplashScreen
-import com.example.evaluacionsegundocorte.ui.screen.TaskDetailScreen
-import com.example.evaluacionsegundocorte.ui.screen.TaskListScreen
+import com.example.evaluacionsegundocorte.ui.screen.splash.SplashScreen
+import com.example.evaluacionsegundocorte.ui.screen.taskdetail.TaskDetailScreen
+import com.example.evaluacionsegundocorte.ui.screen.tasklist.TaskListScreen
 import com.example.evaluacionsegundocorte.ui.viewmodel.TaskViewModel
 
 @Composable
